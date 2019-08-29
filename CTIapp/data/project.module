@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module category="" descriptorversion="1.0" entrypoint="CTIapp/Start" forcesubdialogcall="false" frameworkversion="07.21.05.02" iconlarge="icons/defaultapplicationlg.gif" iconsmall="icons/defaultapplicationsm.gif" modifyInputs="false" modifyOutputs="false" nature="" outputmultipart="false" paramasnamelist="false" provider="" submitmethod="" version="1.0.0" webname="CTIapp">
+    <description/>
+    <language name="english" root="en-us"/>
+    <dependencies/>
+</module>

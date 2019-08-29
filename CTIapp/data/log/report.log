@@ -1,0 +1,6 @@
+06/07/2019 10:38:23 FATAL - In Progress | session id:sess7761247 | CTIapp:transferdestination | Log state of transfered call | Transfer call state:  | transfertoextn:state | established | undefined
+06/07/2019 10:38:23 FATAL - In Progress | session id:sess7761247 | CTIapp:transferdestination | state of original call | Ctiinfo state:  |  |  | undefined
+06/07/2019 10:38:58 FATAL - In Progress | session id:sess3094903 | CTIapp:transferdestination | Log state of transfered call | Transfer call state:  | transfertoextn:state | established | undefined
+06/07/2019 10:38:58 FATAL - In Progress | session id:sess3094903 | CTIapp:transferdestination | state of original call | Ctiinfo state:  |  |  | undefined
+06/07/2019 10:39:40 FATAL - In Progress | session id:sess1442991 | CTIapp:transferdestination | Log state of transfered call | Transfer call state:  | transfertoextn:state | established | undefined
+06/07/2019 10:39:40 FATAL - In Progress | session id:sess1442991 | CTIapp:transferdestination | state of original call | Ctiinfo state:  |  |  | undefined

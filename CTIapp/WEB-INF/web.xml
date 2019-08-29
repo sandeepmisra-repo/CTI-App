@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+This XML descriptor is automatically generated and managed by the
+application development environment.  While manual updates to this 
+file may be preserved, it is best to manage this file through the application development environment tool.
+
+Copyright 2004 Avaya Inc.
+--><!DOCTYPE web-app PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN" "http://java.sun.com/dtd/web-app_2_3.dtd">
+<web-app id="WebApp_ID">
+<context-param>
+<param-name>sage.startlanguage</param-name>
+<param-value>english</param-value>
+<description>The starting language for the application.</description>
+</context-param>
+
+
+
+
+
+<context-param>
+<param-name>runtime-ASR</param-name>
+<param-value>SRGS-Literals</param-value>
+<description>Runtime ASR {SRGS|Nuance 8.5|Nuance OSR|IBM}</description>
+</context-param>
+<context-param>
+<param-name>runtime-SSML</param-name>
+<param-value>false</param-value>
+<description>Runtime SSML Generation {true|false} - "true" enables SSML generation, "false" disables.</description>
+</context-param>
+<context-param>
+<param-name>runtime-Platform</param-name>
+<param-value>Desktop</param-value>
+<description>Runtime Platform {Desktop|Voice Portal|Other|IR}</description>
+</context-param>
+<context-param>
+<param-name>grammar-caching</param-name>
+<param-value>none</param-value>
+<description>Grammar caching mode, none=no caching, default=system default or property setting</description>
+</context-param>
+
+    
+    
+    
+    
+    <context-param>
+        <param-name>sage.ic.throwexceptions</param-name>
+        <param-value>true</param-value>
+        <description>IC Throw Runtime Exception on Error{true|false}</description>
+    </context-param>
+    <context-param>
+        <param-name>runtime-VXML-Compatibility</param-name>
+        <param-value>2.1</param-value>
+        <description>2.1 + IVVR Allows video extensions, 2.1 Allows VXML 2.1 extensions, 2.0 Uses VXML 2.0 Only</description>
+    </context-param>
+    <context-param>
+        <param-name>sage.cti.autoinvoke.callinfo</param-name>
+        <param-value>true</param-value>
+        <description>CTI Auto invoke CallInfo upon app start{true|false}</description>
+    </context-param>
+    <context-param>
+        <param-name>runtime-DTMF-Native</param-name>
+        <param-value>LOCAL_SRGS_LITERALS</param-value>
+        <description>(NATIVE|LOCAL_SRGS_SISR|LOCAL_SRGS_LITERALS, NATIVE means DTMF Grammars are in native asr format.</description>
+    </context-param>
+    <context-param>
+        <param-name>runtime-nature</param-name>
+        <param-value>speech</param-value>
+        <description>Application nature, speech or message</description>
+    </context-param>
+    <context-param>
+        <param-name>allow-html-mode</param-name>
+        <param-value>false</param-value>
+        <description>Allows html mode in speech applications.</description>
+    </context-param>
+    <servlet id="SAGE-callflow-servlet_main_1">
+        <servlet-name>AppRoot</servlet-name>
+        <servlet-class>flow.AppRoot</servlet-class>
+    </servlet>
+    <servlet id="SAGE-callflow-servlet_main_33">
+        <servlet-name>transferdestination</servlet-name>
+        <servlet-class>flow.transferdestination</servlet-class>
+    </servlet>
+    <servlet id="SAGE-callflow-servlet_main_98">
+        <servlet-name>callnotestablished</servlet-name>
+        <servlet-class>flow.callnotestablished</servlet-class>
+    </servlet>
+    <servlet id="SAGE-callflow-servlet_main_10">
+        <servlet-name>collectdigits</servlet-name>
+        <servlet-class>flow.collectdigits</servlet-class>
+    </servlet>
+    <servlet id="SAGE-callflow-servlet_main_54">
+        <servlet-name>choices</servlet-name>
+        <servlet-class>flow.choices</servlet-class>
+    </servlet>
+    <servlet id="SAGE-callflow-servlet_main_20">
+        <servlet-name>dialcall</servlet-name>
+        <servlet-class>flow.dialcall</servlet-class>
+    </servlet>
+    <servlet id="SAGE-callflow-servlet_main_26">
+        <servlet-name>getoriginalcall</servlet-name>
+        <servlet-class>flow.getoriginalcall</servlet-class>
+    </servlet>
+    <servlet id="SAGE-callflow-servlet_main_63">
+        <servlet-name>goodbye</servlet-name>
+        <servlet-class>flow.goodbye</servlet-class>
+    </servlet>
+    <servlet id="SAGE-callflow-servlet_main_62">
+        <servlet-name>exit</servlet-name>
+        <servlet-class>flow.exit</servlet-class>
+    </servlet>
+    <servlet id="SAGE-callflow-servlet_main_0">
+        <servlet-name>Start</servlet-name>
+        <servlet-class>flow.Start</servlet-class>
+    </servlet>
+    <servlet id="avayadefaultdisconnecthandler-servlet">
+        <servlet-name>AvayaDefaultDisconnectHandler</servlet-name>
+        <servlet-class>com.avaya.sce.runtime.DefaultDisconnect</servlet-class>
+    </servlet>
+    <servlet id="avayadefaultexithandler-servlet">
+        <servlet-name>AvayaDefaultExitHandler</servlet-name>
+        <servlet-class>com.avaya.sce.runtime.DefaultExit</servlet-class>
+    </servlet>
+    <servlet id="avayasessiontermination-servlet">
+        <servlet-name>AvayaSessionTerminationServlet</servlet-name>
+        <servlet-class>com.avaya.sce.runtime.AvayaSessionTerminationServlet</servlet-class>
+    </servlet>
+    <servlet id="avayareturnerrorhandler-servlet">
+        <servlet-name>AvayaReturnErrorHandler</servlet-name>
+        <servlet-class>com.avaya.sce.runtime.ReturnErrorHandlerServlet</servlet-class>
+    </servlet>
+    <servlet id="avayareturnerrorthrow-servlet">
+        <servlet-name>AvayaReturnErrorThrow</servlet-name>
+        <servlet-class>com.avaya.sce.runtime.ReturnErrorThrowServlet</servlet-class>
+    </servlet>
+    <servlet-mapping id="SAGE-callflow-servletmapping_main_1">
+        <servlet-name>AppRoot</servlet-name>
+        <url-pattern>/AppRoot</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_main_33">
+        <servlet-name>transferdestination</servlet-name>
+        <url-pattern>/transferdestination</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_main_98">
+        <servlet-name>callnotestablished</servlet-name>
+        <url-pattern>/callnotestablished</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_main_10">
+        <servlet-name>collectdigits</servlet-name>
+        <url-pattern>/collectdigits</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_main_54">
+        <servlet-name>choices</servlet-name>
+        <url-pattern>/choices</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_main_20">
+        <servlet-name>dialcall</servlet-name>
+        <url-pattern>/dialcall</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_main_26">
+        <servlet-name>getoriginalcall</servlet-name>
+        <url-pattern>/getoriginalcall</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_main_63">
+        <servlet-name>goodbye</servlet-name>
+        <url-pattern>/goodbye</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_main_62">
+        <servlet-name>exit</servlet-name>
+        <url-pattern>/exit</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="SAGE-callflow-servletmapping_main_0">
+        <servlet-name>Start</servlet-name>
+        <url-pattern>/Start</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="avayadefaultdisconnecthandler-servletmapping">
+        <servlet-name>AvayaDefaultDisconnectHandler</servlet-name>
+        <url-pattern>/AvayaDefaultDisconnectHandler</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="avayadefaultexithandler-servletmapping">
+        <servlet-name>AvayaDefaultExitHandler</servlet-name>
+        <url-pattern>/AvayaDefaultExitHandler</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="avayasessiontermination-servletmapping">
+        <servlet-name>AvayaSessionTerminationServlet</servlet-name>
+        <url-pattern>/AvayaSessionTerminationServlet</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="avayareturnerrorhandler-servletmapping">
+        <servlet-name>AvayaReturnErrorHandler</servlet-name>
+        <url-pattern>/AvayaReturnErrorHandler</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping id="avayareturnerrorthrow-servletmapping">
+        <servlet-name>AvayaReturnErrorThrow</servlet-name>
+        <url-pattern>/AvayaReturnErrorThrow</url-pattern>
+    </servlet-mapping>
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+</web-app>

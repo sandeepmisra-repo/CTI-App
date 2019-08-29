@@ -1,0 +1,524 @@
+06/07/2019 10:38:15  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : SCESession bound to HttpSession 6FAEDC547D39C93A7795C00F07663778
+06/07/2019 10:38:15  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : SCESession bound to HttpSession 6FAEDC547D39C93A7795C00F07663778
+06/07/2019 10:38:15  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Browser Version 2.1.4, terminationURL enabled : true
+06/07/2019 10:38:15  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Browser Version 2.1.4, terminationURL enabled : true
+06/07/2019 10:38:15  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Using SCESession 6FAEDC547D39C93A7795C00F07663778:/CTIapp servlet : Start
+06/07/2019 10:38:15  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Using SCESession 6FAEDC547D39C93A7795C00F07663778:/CTIapp servlet : Start
+06/07/2019 10:38:15  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : ** Pushed Stack Frame [/CTIapp]
+06/07/2019 10:38:15  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : ** Pushed Stack Frame [/CTIapp]
+06/07/2019 10:38:15 DEBUG - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Not able to save posted variable information [call_classification]
+06/07/2019 10:38:15 DEBUG - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Not able to save posted variable information [call_classification]
+06/07/2019 10:38:15  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___sessionid to complex: session:sessionid  as [sess7761247]
+06/07/2019 10:38:15  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___sessionid to complex: session:sessionid  as [sess7761247]
+06/07/2019 10:38:15  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___vpconverseondata to complex: session:vpconverseondata  as []
+06/07/2019 10:38:15  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___vpconverseondata to complex: session:vpconverseondata  as []
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : runtime_platform : Desktop
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : runtime_platform : Desktop
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : runtime_asr : SRGS-Literals
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : runtime_asr : SRGS-Literals
+06/07/2019 10:38:16 DEBUG - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Acquiring initial License
+06/07/2019 10:38:16 DEBUG - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Acquiring initial License
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Acquiring Desktop runtime license
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Acquiring Desktop runtime license
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Runtime :true
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Runtime :true
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : IC :true
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : IC :true
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : CTI :true
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : CTI :true
+06/07/2019 10:38:16 DEBUG - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Grace Period timer cleared
+06/07/2019 10:38:16 DEBUG - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Grace Period timer cleared
+06/07/2019 10:38:16 DEBUG - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : License refresh timer started
+06/07/2019 10:38:16 DEBUG - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : License refresh timer started
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : MessageType is speech
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : MessageType is speech
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Using SCESession 6FAEDC547D39C93A7795C00F07663778:/CTIapp servlet : collectdigits
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Using SCESession 6FAEDC547D39C93A7795C00F07663778:/CTIapp servlet : collectdigits
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :_sipcallid to simple: _sipcallid  as [unknown]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :_sipcallid to simple: _sipcallid  as [unknown]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :redirectinfo___presentationinfo to complex: redirectinfo:presentationinfo  as [undefined]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :redirectinfo___presentationinfo to complex: redirectinfo:presentationinfo  as [undefined]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :redirectinfo___reason to complex: redirectinfo:reason  as [unknown]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :redirectinfo___reason to complex: redirectinfo:reason  as [unknown]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :redirectinfo___screeninginfo to complex: redirectinfo:screeninginfo  as [undefined]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :redirectinfo___screeninginfo to complex: redirectinfo:screeninginfo  as [undefined]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :redirectinfo___uri to complex: redirectinfo:uri  as []
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :redirectinfo___uri to complex: redirectinfo:uri  as []
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___aai to complex: session:aai  as []
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___aai to complex: session:aai  as []
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___ani to complex: session:ani  as [undefined]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___ani to complex: session:ani  as [undefined]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___calltag to complex: session:calltag  as [unknown]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___calltag to complex: session:calltag  as [unknown]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___channel to complex: session:channel  as [0]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___channel to complex: session:channel  as [0]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___conversefirst to complex: session:conversefirst  as [unknown]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___conversefirst to complex: session:conversefirst  as [unknown]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___conversesecond to complex: session:conversesecond  as [unknown]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___conversesecond to complex: session:conversesecond  as [unknown]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___dnis to complex: session:dnis  as [undefined]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___dnis to complex: session:dnis  as [undefined]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___mediatype to complex: session:mediatype  as [unknown]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___mediatype to complex: session:mediatype  as [unknown]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___protocolname to complex: session:protocolname  as [pots]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___protocolname to complex: session:protocolname  as [pots]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___protocolversion to complex: session:protocolversion  as [1]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___protocolversion to complex: session:protocolversion  as [1]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___sessionlabel to complex: session:sessionlabel  as [undefined]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___sessionlabel to complex: session:sessionlabel  as [undefined]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___sharedmode to complex: session:sharedmode  as [shared]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___sharedmode to complex: session:sharedmode  as [shared]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___ucid to complex: session:ucid  as [undefined]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___ucid to complex: session:ucid  as [undefined]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___uui to complex: session:uui  as [unknown]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___uui to complex: session:uui  as [unknown]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___videobitrate to complex: session:videobitrate  as [unknown]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___videobitrate to complex: session:videobitrate  as [unknown]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___videocodec to complex: session:videocodec  as [unknown]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___videocodec to complex: session:videocodec  as [unknown]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___videoenabled to complex: session:videoenabled  as [unknown]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___videoenabled to complex: session:videoenabled  as [unknown]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___videofarfmtp to complex: session:videofarfmtp  as [unknown]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___videofarfmtp to complex: session:videofarfmtp  as [unknown]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___videoformat to complex: session:videoformat  as [unknown]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___videoformat to complex: session:videoformat  as [unknown]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___videofps to complex: session:videofps  as [unknown]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___videofps to complex: session:videofps  as [unknown]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___videoheight to complex: session:videoheight  as [unknown]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___videoheight to complex: session:videoheight  as [unknown]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___videonearfmtp to complex: session:videonearfmtp  as [unknown]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___videonearfmtp to complex: session:videonearfmtp  as [unknown]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___videowidth to complex: session:videowidth  as [unknown]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___videowidth to complex: session:videowidth  as [unknown]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___vpcalledextension to complex: session:vpcalledextension  as [unknown]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___vpcalledextension to complex: session:vpcalledextension  as [unknown]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___vpcoveragereason to complex: session:vpcoveragereason  as [unknown]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___vpcoveragereason to complex: session:vpcoveragereason  as [unknown]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___vpcoveragetype to complex: session:vpcoveragetype  as [unknown]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___vpcoveragetype to complex: session:vpcoveragetype  as [unknown]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___vprdnis to complex: session:vprdnis  as [unknown]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :session___vprdnis to complex: session:vprdnis  as [unknown]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :shareduui___id to complex: shareduui:id  as [unknown]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :shareduui___id to complex: shareduui:id  as [unknown]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :shareduui___value to complex: shareduui:value  as [unknown]
+06/07/2019 10:38:16  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :shareduui___value to complex: shareduui:value  as [unknown]
+06/07/2019 10:38:16 DEBUG - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : CTICallOperation Request: callinfoInitialCall
+06/07/2019 10:38:16 DEBUG - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : CTICallOperation Request: callinfoInitialCall
+06/07/2019 10:38:16 DEBUG - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : CTICallOperation Response: okay
+06/07/2019 10:38:16 DEBUG - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : CTICallOperation Response: okay
+06/07/2019 10:38:23  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Using SCESession 6FAEDC547D39C93A7795C00F07663778:/CTIapp servlet : dialcall
+06/07/2019 10:38:23  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Using SCESession 6FAEDC547D39C93A7795C00F07663778:/CTIapp servlet : dialcall
+06/07/2019 10:38:23  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :collectdigits___confidence to complex: collectdigits:confidence  as [0.949999988079071]
+06/07/2019 10:38:23  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :collectdigits___confidence to complex: collectdigits:confidence  as [0.949999988079071]
+06/07/2019 10:38:23  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :collectdigits___inputmode to complex: collectdigits:inputmode  as [dtmf]
+06/07/2019 10:38:23  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :collectdigits___inputmode to complex: collectdigits:inputmode  as [dtmf]
+06/07/2019 10:38:23  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :collectdigits___interpretation to complex: collectdigits:interpretation  as [3024]
+06/07/2019 10:38:23  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :collectdigits___interpretation to complex: collectdigits:interpretation  as [3024]
+06/07/2019 10:38:23  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :collectdigits___noinputcount to complex: collectdigits:noinputcount  as [0]
+06/07/2019 10:38:23  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :collectdigits___noinputcount to complex: collectdigits:noinputcount  as [0]
+06/07/2019 10:38:23  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :collectdigits___nomatchcount to complex: collectdigits:nomatchcount  as [0]
+06/07/2019 10:38:23  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :collectdigits___nomatchcount to complex: collectdigits:nomatchcount  as [0]
+06/07/2019 10:38:23  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :collectdigits___utterance to complex: collectdigits:utterance  as [3024]
+06/07/2019 10:38:23  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :collectdigits___utterance to complex: collectdigits:utterance  as [3024]
+06/07/2019 10:38:23  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :collectdigits___value to complex: collectdigits:value  as [3024]
+06/07/2019 10:38:23  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Storing :collectdigits___value to complex: collectdigits:value  as [3024]
+06/07/2019 10:38:23 DEBUG - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : VariableUtil.getVariableValue: Variable value is 0
+06/07/2019 10:38:23 DEBUG - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : VariableUtil.getVariableValue: Variable value is 0
+06/07/2019 10:38:23 DEBUG - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : VariableUtil.getVariableValue: Variable value is 3024
+06/07/2019 10:38:23 DEBUG - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : VariableUtil.getVariableValue: Variable value is 3024
+06/07/2019 10:38:23 DEBUG - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : VariableUtil.getVariableValue: Variable value is 3024
+06/07/2019 10:38:23 DEBUG - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : VariableUtil.getVariableValue: Variable value is 3024
+06/07/2019 10:38:23 DEBUG - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : CTICallOperation Request: hold:0
+06/07/2019 10:38:23 DEBUG - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : CTICallOperation Request: hold:0
+06/07/2019 10:38:23 DEBUG - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : CTICallOperation Response: held
+06/07/2019 10:38:23 DEBUG - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : CTICallOperation Response: held
+06/07/2019 10:38:23 DEBUG - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : CTICallOperation Request: dial:3024
+06/07/2019 10:38:23 DEBUG - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : CTICallOperation Request: dial:3024
+06/07/2019 10:38:23 DEBUG - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : CTICallOperation Response: established
+06/07/2019 10:38:23 DEBUG - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : CTICallOperation Response: established
+06/07/2019 10:38:23  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : [condition1] Expression [transfertoextn:state] String Not Equal Ignorecase [established]
+06/07/2019 10:38:23  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : [condition1] Expression [transfertoextn:state] String Not Equal Ignorecase [established]
+06/07/2019 10:38:23  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Using SCESession 6FAEDC547D39C93A7795C00F07663778:/CTIapp servlet : transferdestination
+06/07/2019 10:38:23  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Using SCESession 6FAEDC547D39C93A7795C00F07663778:/CTIapp servlet : transferdestination
+06/07/2019 10:38:23 DEBUG - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : VariableUtil.getVariableValue: Variable value is 0
+06/07/2019 10:38:23 DEBUG - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : VariableUtil.getVariableValue: Variable value is 0
+06/07/2019 10:38:23 DEBUG - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : VariableUtil.getVariableValue: Variable value is 1
+06/07/2019 10:38:23 DEBUG - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : VariableUtil.getVariableValue: Variable value is 1
+06/07/2019 10:38:23 FATAL - In Progress | session id:sess7761247 | CTIapp:transferdestination | Log state of transfered call | Transfer call state:  | transfertoextn:state | established | undefined
+06/07/2019 10:38:23 FATAL - In Progress | session id:sess7761247 | CTIapp:transferdestination | state of original call | Ctiinfo state:  |  |  | undefined
+06/07/2019 10:38:23 DEBUG - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : session id:sess7761247 | CTIapp:transferdestination | cticallinfo state:
+06/07/2019 10:38:23 DEBUG - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : session id:sess7761247 | CTIapp:transferdestination | cticallinfo state:
+06/07/2019 10:38:23 DEBUG - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : session id:sess7761247 | CTIapp:transferdestination | transfer call state:  | transfertoextn:state : established
+06/07/2019 10:38:23 DEBUG - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : session id:sess7761247 | CTIapp:transferdestination | transfer call state:  | transfertoextn:state : established
+06/07/2019 10:38:23 DEBUG - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : CTICallOperation Request: transfer:0
+06/07/2019 10:38:23 DEBUG - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : CTICallOperation Request: transfer:0
+06/07/2019 10:38:23 DEBUG - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : CTICallOperation Response: transferred
+06/07/2019 10:38:23 DEBUG - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : CTICallOperation Response: transferred
+06/07/2019 10:38:23  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : [condition1] Expression [transfertoextn:state] String Equal Ignorecase [busy]
+06/07/2019 10:38:23  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : [condition1] Expression [transfertoextn:state] String Equal Ignorecase [busy]
+06/07/2019 10:38:23  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : [condition2] Expression [transfertoextn:state] String Equal Ignorecase [no answer]
+06/07/2019 10:38:23  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : [condition2] Expression [transfertoextn:state] String Equal Ignorecase [no answer]
+06/07/2019 10:38:23  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : [condition3] Expression [transfertoextn:state] String Equal Ignorecase [unreachable]
+06/07/2019 10:38:23  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : [condition3] Expression [transfertoextn:state] String Equal Ignorecase [unreachable]
+06/07/2019 10:38:23  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : [condition4] Expression [transfertoextn:state] String Equal Ignorecase [unknown]
+06/07/2019 10:38:23  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : [condition4] Expression [transfertoextn:state] String Equal Ignorecase [unknown]
+06/07/2019 10:38:23  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Using SCESession 6FAEDC547D39C93A7795C00F07663778:/CTIapp servlet : exit
+06/07/2019 10:38:23  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Using SCESession 6FAEDC547D39C93A7795C00F07663778:/CTIapp servlet : exit
+06/07/2019 10:38:23  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Removing session from AvayaSessionTermination Servlet
+06/07/2019 10:38:23  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Removing session from AvayaSessionTermination Servlet
+06/07/2019 10:38:23  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Termination URL reply : <?xml version="1.0" encoding="UTF-8"?>
+<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="en-us">
+</vxml>
+
+06/07/2019 10:38:23  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Termination URL reply : <?xml version="1.0" encoding="UTF-8"?>
+<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="en-us">
+</vxml>
+
+06/07/2019 10:38:23  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : HTTP Session lost removing SCESession 6FAEDC547D39C93A7795C00F07663778
+06/07/2019 10:38:23  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : HTTP Session lost removing SCESession 6FAEDC547D39C93A7795C00F07663778
+06/07/2019 10:38:23  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : SCESession Removed
+06/07/2019 10:38:23  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : SCESession Removed
+06/07/2019 10:38:23 DEBUG - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Removing 1 session stack frames.
+06/07/2019 10:38:23 DEBUG - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : Removing 1 session stack frames.
+06/07/2019 10:38:23  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : ** Popped Stack Frame [/CTIapp]
+06/07/2019 10:38:23  INFO - 6FAEDC547D39C93A7795C00F07663778:/CTIapp : ** Popped Stack Frame [/CTIapp]
+06/07/2019 10:38:51  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : SCESession bound to HttpSession E71917294E558D0AED08C209D98C42CA
+06/07/2019 10:38:51  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : SCESession bound to HttpSession E71917294E558D0AED08C209D98C42CA
+06/07/2019 10:38:51  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Browser Version 2.1.4, terminationURL enabled : true
+06/07/2019 10:38:51  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Browser Version 2.1.4, terminationURL enabled : true
+06/07/2019 10:38:51  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Using SCESession E71917294E558D0AED08C209D98C42CA:/CTIapp servlet : Start
+06/07/2019 10:38:51  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Using SCESession E71917294E558D0AED08C209D98C42CA:/CTIapp servlet : Start
+06/07/2019 10:38:51  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : ** Pushed Stack Frame [/CTIapp]
+06/07/2019 10:38:51  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : ** Pushed Stack Frame [/CTIapp]
+06/07/2019 10:38:51 DEBUG - E71917294E558D0AED08C209D98C42CA:/CTIapp : Not able to save posted variable information [call_classification]
+06/07/2019 10:38:51 DEBUG - E71917294E558D0AED08C209D98C42CA:/CTIapp : Not able to save posted variable information [call_classification]
+06/07/2019 10:38:51  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___sessionid to complex: session:sessionid  as [sess3094903]
+06/07/2019 10:38:51  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___sessionid to complex: session:sessionid  as [sess3094903]
+06/07/2019 10:38:51  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___vpconverseondata to complex: session:vpconverseondata  as []
+06/07/2019 10:38:51  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___vpconverseondata to complex: session:vpconverseondata  as []
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : runtime_platform : Desktop
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : runtime_platform : Desktop
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : runtime_asr : SRGS-Literals
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : runtime_asr : SRGS-Literals
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : MessageType is speech
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : MessageType is speech
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Using SCESession E71917294E558D0AED08C209D98C42CA:/CTIapp servlet : collectdigits
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Using SCESession E71917294E558D0AED08C209D98C42CA:/CTIapp servlet : collectdigits
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :_sipcallid to simple: _sipcallid  as [unknown]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :_sipcallid to simple: _sipcallid  as [unknown]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :redirectinfo___presentationinfo to complex: redirectinfo:presentationinfo  as [undefined]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :redirectinfo___presentationinfo to complex: redirectinfo:presentationinfo  as [undefined]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :redirectinfo___reason to complex: redirectinfo:reason  as [unknown]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :redirectinfo___reason to complex: redirectinfo:reason  as [unknown]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :redirectinfo___screeninginfo to complex: redirectinfo:screeninginfo  as [undefined]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :redirectinfo___screeninginfo to complex: redirectinfo:screeninginfo  as [undefined]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :redirectinfo___uri to complex: redirectinfo:uri  as []
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :redirectinfo___uri to complex: redirectinfo:uri  as []
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___aai to complex: session:aai  as []
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___aai to complex: session:aai  as []
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___ani to complex: session:ani  as [undefined]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___ani to complex: session:ani  as [undefined]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___calltag to complex: session:calltag  as [unknown]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___calltag to complex: session:calltag  as [unknown]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___channel to complex: session:channel  as [0]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___channel to complex: session:channel  as [0]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___conversefirst to complex: session:conversefirst  as [unknown]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___conversefirst to complex: session:conversefirst  as [unknown]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___conversesecond to complex: session:conversesecond  as [unknown]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___conversesecond to complex: session:conversesecond  as [unknown]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___dnis to complex: session:dnis  as [undefined]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___dnis to complex: session:dnis  as [undefined]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___mediatype to complex: session:mediatype  as [unknown]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___mediatype to complex: session:mediatype  as [unknown]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___protocolname to complex: session:protocolname  as [pots]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___protocolname to complex: session:protocolname  as [pots]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___protocolversion to complex: session:protocolversion  as [1]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___protocolversion to complex: session:protocolversion  as [1]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___sessionlabel to complex: session:sessionlabel  as [undefined]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___sessionlabel to complex: session:sessionlabel  as [undefined]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___sharedmode to complex: session:sharedmode  as [shared]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___sharedmode to complex: session:sharedmode  as [shared]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___ucid to complex: session:ucid  as [undefined]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___ucid to complex: session:ucid  as [undefined]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___uui to complex: session:uui  as [unknown]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___uui to complex: session:uui  as [unknown]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___videobitrate to complex: session:videobitrate  as [unknown]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___videobitrate to complex: session:videobitrate  as [unknown]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___videocodec to complex: session:videocodec  as [unknown]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___videocodec to complex: session:videocodec  as [unknown]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___videoenabled to complex: session:videoenabled  as [unknown]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___videoenabled to complex: session:videoenabled  as [unknown]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___videofarfmtp to complex: session:videofarfmtp  as [unknown]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___videofarfmtp to complex: session:videofarfmtp  as [unknown]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___videoformat to complex: session:videoformat  as [unknown]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___videoformat to complex: session:videoformat  as [unknown]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___videofps to complex: session:videofps  as [unknown]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___videofps to complex: session:videofps  as [unknown]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___videoheight to complex: session:videoheight  as [unknown]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___videoheight to complex: session:videoheight  as [unknown]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___videonearfmtp to complex: session:videonearfmtp  as [unknown]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___videonearfmtp to complex: session:videonearfmtp  as [unknown]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___videowidth to complex: session:videowidth  as [unknown]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___videowidth to complex: session:videowidth  as [unknown]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___vpcalledextension to complex: session:vpcalledextension  as [unknown]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___vpcalledextension to complex: session:vpcalledextension  as [unknown]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___vpcoveragereason to complex: session:vpcoveragereason  as [unknown]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___vpcoveragereason to complex: session:vpcoveragereason  as [unknown]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___vpcoveragetype to complex: session:vpcoveragetype  as [unknown]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___vpcoveragetype to complex: session:vpcoveragetype  as [unknown]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___vprdnis to complex: session:vprdnis  as [unknown]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :session___vprdnis to complex: session:vprdnis  as [unknown]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :shareduui___id to complex: shareduui:id  as [unknown]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :shareduui___id to complex: shareduui:id  as [unknown]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :shareduui___value to complex: shareduui:value  as [unknown]
+06/07/2019 10:38:52  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :shareduui___value to complex: shareduui:value  as [unknown]
+06/07/2019 10:38:52 DEBUG - E71917294E558D0AED08C209D98C42CA:/CTIapp : CTICallOperation Request: callinfoInitialCall
+06/07/2019 10:38:52 DEBUG - E71917294E558D0AED08C209D98C42CA:/CTIapp : CTICallOperation Request: callinfoInitialCall
+06/07/2019 10:38:52 DEBUG - E71917294E558D0AED08C209D98C42CA:/CTIapp : CTICallOperation Response: okay
+06/07/2019 10:38:52 DEBUG - E71917294E558D0AED08C209D98C42CA:/CTIapp : CTICallOperation Response: okay
+06/07/2019 10:38:57  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Using SCESession E71917294E558D0AED08C209D98C42CA:/CTIapp servlet : dialcall
+06/07/2019 10:38:57  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Using SCESession E71917294E558D0AED08C209D98C42CA:/CTIapp servlet : dialcall
+06/07/2019 10:38:57  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :collectdigits___confidence to complex: collectdigits:confidence  as [0.949999988079071]
+06/07/2019 10:38:57  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :collectdigits___confidence to complex: collectdigits:confidence  as [0.949999988079071]
+06/07/2019 10:38:57  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :collectdigits___inputmode to complex: collectdigits:inputmode  as [dtmf]
+06/07/2019 10:38:57  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :collectdigits___inputmode to complex: collectdigits:inputmode  as [dtmf]
+06/07/2019 10:38:57  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :collectdigits___interpretation to complex: collectdigits:interpretation  as [3024]
+06/07/2019 10:38:57  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :collectdigits___interpretation to complex: collectdigits:interpretation  as [3024]
+06/07/2019 10:38:57  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :collectdigits___noinputcount to complex: collectdigits:noinputcount  as [0]
+06/07/2019 10:38:57  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :collectdigits___noinputcount to complex: collectdigits:noinputcount  as [0]
+06/07/2019 10:38:57  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :collectdigits___nomatchcount to complex: collectdigits:nomatchcount  as [0]
+06/07/2019 10:38:57  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :collectdigits___nomatchcount to complex: collectdigits:nomatchcount  as [0]
+06/07/2019 10:38:57  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :collectdigits___utterance to complex: collectdigits:utterance  as [3024]
+06/07/2019 10:38:57  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :collectdigits___utterance to complex: collectdigits:utterance  as [3024]
+06/07/2019 10:38:57  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :collectdigits___value to complex: collectdigits:value  as [3024]
+06/07/2019 10:38:57  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Storing :collectdigits___value to complex: collectdigits:value  as [3024]
+06/07/2019 10:38:58 DEBUG - E71917294E558D0AED08C209D98C42CA:/CTIapp : VariableUtil.getVariableValue: Variable value is 0
+06/07/2019 10:38:58 DEBUG - E71917294E558D0AED08C209D98C42CA:/CTIapp : VariableUtil.getVariableValue: Variable value is 0
+06/07/2019 10:38:58 DEBUG - E71917294E558D0AED08C209D98C42CA:/CTIapp : VariableUtil.getVariableValue: Variable value is 3024
+06/07/2019 10:38:58 DEBUG - E71917294E558D0AED08C209D98C42CA:/CTIapp : VariableUtil.getVariableValue: Variable value is 3024
+06/07/2019 10:38:58 DEBUG - E71917294E558D0AED08C209D98C42CA:/CTIapp : VariableUtil.getVariableValue: Variable value is 3024
+06/07/2019 10:38:58 DEBUG - E71917294E558D0AED08C209D98C42CA:/CTIapp : VariableUtil.getVariableValue: Variable value is 3024
+06/07/2019 10:38:58 DEBUG - E71917294E558D0AED08C209D98C42CA:/CTIapp : CTICallOperation Request: hold:0
+06/07/2019 10:38:58 DEBUG - E71917294E558D0AED08C209D98C42CA:/CTIapp : CTICallOperation Request: hold:0
+06/07/2019 10:38:58 DEBUG - E71917294E558D0AED08C209D98C42CA:/CTIapp : CTICallOperation Response: held
+06/07/2019 10:38:58 DEBUG - E71917294E558D0AED08C209D98C42CA:/CTIapp : CTICallOperation Response: held
+06/07/2019 10:38:58 DEBUG - E71917294E558D0AED08C209D98C42CA:/CTIapp : CTICallOperation Request: dial:3024
+06/07/2019 10:38:58 DEBUG - E71917294E558D0AED08C209D98C42CA:/CTIapp : CTICallOperation Request: dial:3024
+06/07/2019 10:38:58 DEBUG - E71917294E558D0AED08C209D98C42CA:/CTIapp : CTICallOperation Response: established
+06/07/2019 10:38:58 DEBUG - E71917294E558D0AED08C209D98C42CA:/CTIapp : CTICallOperation Response: established
+06/07/2019 10:38:58  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : [condition1] Expression [transfertoextn:state] String Not Equal Ignorecase [established]
+06/07/2019 10:38:58  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : [condition1] Expression [transfertoextn:state] String Not Equal Ignorecase [established]
+06/07/2019 10:38:58  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Using SCESession E71917294E558D0AED08C209D98C42CA:/CTIapp servlet : transferdestination
+06/07/2019 10:38:58  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Using SCESession E71917294E558D0AED08C209D98C42CA:/CTIapp servlet : transferdestination
+06/07/2019 10:38:58 DEBUG - E71917294E558D0AED08C209D98C42CA:/CTIapp : VariableUtil.getVariableValue: Variable value is 0
+06/07/2019 10:38:58 DEBUG - E71917294E558D0AED08C209D98C42CA:/CTIapp : VariableUtil.getVariableValue: Variable value is 0
+06/07/2019 10:38:58 DEBUG - E71917294E558D0AED08C209D98C42CA:/CTIapp : VariableUtil.getVariableValue: Variable value is 1
+06/07/2019 10:38:58 DEBUG - E71917294E558D0AED08C209D98C42CA:/CTIapp : VariableUtil.getVariableValue: Variable value is 1
+06/07/2019 10:38:58 FATAL - In Progress | session id:sess3094903 | CTIapp:transferdestination | Log state of transfered call | Transfer call state:  | transfertoextn:state | established | undefined
+06/07/2019 10:38:58 FATAL - In Progress | session id:sess3094903 | CTIapp:transferdestination | state of original call | Ctiinfo state:  |  |  | undefined
+06/07/2019 10:38:58 DEBUG - E71917294E558D0AED08C209D98C42CA:/CTIapp : session id:sess3094903 | CTIapp:transferdestination | cticallinfo state:
+06/07/2019 10:38:58 DEBUG - E71917294E558D0AED08C209D98C42CA:/CTIapp : session id:sess3094903 | CTIapp:transferdestination | cticallinfo state:
+06/07/2019 10:38:58 DEBUG - E71917294E558D0AED08C209D98C42CA:/CTIapp : session id:sess3094903 | CTIapp:transferdestination | transfer call state:  | transfertoextn:state : established
+06/07/2019 10:38:58 DEBUG - E71917294E558D0AED08C209D98C42CA:/CTIapp : session id:sess3094903 | CTIapp:transferdestination | transfer call state:  | transfertoextn:state : established
+06/07/2019 10:38:58 DEBUG - E71917294E558D0AED08C209D98C42CA:/CTIapp : CTICallOperation Request: transfer:0
+06/07/2019 10:38:58 DEBUG - E71917294E558D0AED08C209D98C42CA:/CTIapp : CTICallOperation Request: transfer:0
+06/07/2019 10:38:58 DEBUG - E71917294E558D0AED08C209D98C42CA:/CTIapp : CTICallOperation Response: transferred
+06/07/2019 10:38:58 DEBUG - E71917294E558D0AED08C209D98C42CA:/CTIapp : CTICallOperation Response: transferred
+06/07/2019 10:38:58  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : [condition1] Expression [transfertoextn:state] String Equal Ignorecase [busy]
+06/07/2019 10:38:58  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : [condition1] Expression [transfertoextn:state] String Equal Ignorecase [busy]
+06/07/2019 10:38:58  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : [condition2] Expression [transfertoextn:state] String Equal Ignorecase [no answer]
+06/07/2019 10:38:58  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : [condition2] Expression [transfertoextn:state] String Equal Ignorecase [no answer]
+06/07/2019 10:38:58  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : [condition3] Expression [transfertoextn:state] String Equal Ignorecase [unreachable]
+06/07/2019 10:38:58  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : [condition3] Expression [transfertoextn:state] String Equal Ignorecase [unreachable]
+06/07/2019 10:38:58  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : [condition4] Expression [transfertoextn:state] String Equal Ignorecase [unknown]
+06/07/2019 10:38:58  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : [condition4] Expression [transfertoextn:state] String Equal Ignorecase [unknown]
+06/07/2019 10:38:58  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Using SCESession E71917294E558D0AED08C209D98C42CA:/CTIapp servlet : exit
+06/07/2019 10:38:58  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Using SCESession E71917294E558D0AED08C209D98C42CA:/CTIapp servlet : exit
+06/07/2019 10:38:58  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Removing session from AvayaSessionTermination Servlet
+06/07/2019 10:38:58  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Removing session from AvayaSessionTermination Servlet
+06/07/2019 10:38:58  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Termination URL reply : <?xml version="1.0" encoding="UTF-8"?>
+<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="en-us">
+</vxml>
+
+06/07/2019 10:38:58  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : Termination URL reply : <?xml version="1.0" encoding="UTF-8"?>
+<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="en-us">
+</vxml>
+
+06/07/2019 10:38:58  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : HTTP Session lost removing SCESession E71917294E558D0AED08C209D98C42CA
+06/07/2019 10:38:58  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : HTTP Session lost removing SCESession E71917294E558D0AED08C209D98C42CA
+06/07/2019 10:38:58  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : SCESession Removed
+06/07/2019 10:38:58  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : SCESession Removed
+06/07/2019 10:38:58 DEBUG - E71917294E558D0AED08C209D98C42CA:/CTIapp : Removing 1 session stack frames.
+06/07/2019 10:38:58 DEBUG - E71917294E558D0AED08C209D98C42CA:/CTIapp : Removing 1 session stack frames.
+06/07/2019 10:38:58  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : ** Popped Stack Frame [/CTIapp]
+06/07/2019 10:38:58  INFO - E71917294E558D0AED08C209D98C42CA:/CTIapp : ** Popped Stack Frame [/CTIapp]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : SCESession bound to HttpSession 2E5B34E8859598EF5834595402992D11
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : SCESession bound to HttpSession 2E5B34E8859598EF5834595402992D11
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Browser Version 2.1.4, terminationURL enabled : true
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Browser Version 2.1.4, terminationURL enabled : true
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Using SCESession 2E5B34E8859598EF5834595402992D11:/CTIapp servlet : Start
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Using SCESession 2E5B34E8859598EF5834595402992D11:/CTIapp servlet : Start
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : ** Pushed Stack Frame [/CTIapp]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : ** Pushed Stack Frame [/CTIapp]
+06/07/2019 10:39:36 DEBUG - 2E5B34E8859598EF5834595402992D11:/CTIapp : Not able to save posted variable information [call_classification]
+06/07/2019 10:39:36 DEBUG - 2E5B34E8859598EF5834595402992D11:/CTIapp : Not able to save posted variable information [call_classification]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___sessionid to complex: session:sessionid  as [sess1442991]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___sessionid to complex: session:sessionid  as [sess1442991]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___vpconverseondata to complex: session:vpconverseondata  as []
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___vpconverseondata to complex: session:vpconverseondata  as []
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : runtime_platform : Desktop
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : runtime_platform : Desktop
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : runtime_asr : SRGS-Literals
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : runtime_asr : SRGS-Literals
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : MessageType is speech
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : MessageType is speech
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Using SCESession 2E5B34E8859598EF5834595402992D11:/CTIapp servlet : collectdigits
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Using SCESession 2E5B34E8859598EF5834595402992D11:/CTIapp servlet : collectdigits
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :_sipcallid to simple: _sipcallid  as [unknown]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :_sipcallid to simple: _sipcallid  as [unknown]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :redirectinfo___presentationinfo to complex: redirectinfo:presentationinfo  as [undefined]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :redirectinfo___presentationinfo to complex: redirectinfo:presentationinfo  as [undefined]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :redirectinfo___reason to complex: redirectinfo:reason  as [unknown]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :redirectinfo___reason to complex: redirectinfo:reason  as [unknown]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :redirectinfo___screeninginfo to complex: redirectinfo:screeninginfo  as [undefined]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :redirectinfo___screeninginfo to complex: redirectinfo:screeninginfo  as [undefined]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :redirectinfo___uri to complex: redirectinfo:uri  as []
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :redirectinfo___uri to complex: redirectinfo:uri  as []
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___aai to complex: session:aai  as []
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___aai to complex: session:aai  as []
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___ani to complex: session:ani  as [undefined]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___ani to complex: session:ani  as [undefined]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___calltag to complex: session:calltag  as [unknown]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___calltag to complex: session:calltag  as [unknown]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___channel to complex: session:channel  as [0]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___channel to complex: session:channel  as [0]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___conversefirst to complex: session:conversefirst  as [unknown]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___conversefirst to complex: session:conversefirst  as [unknown]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___conversesecond to complex: session:conversesecond  as [unknown]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___conversesecond to complex: session:conversesecond  as [unknown]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___dnis to complex: session:dnis  as [undefined]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___dnis to complex: session:dnis  as [undefined]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___mediatype to complex: session:mediatype  as [unknown]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___mediatype to complex: session:mediatype  as [unknown]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___protocolname to complex: session:protocolname  as [pots]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___protocolname to complex: session:protocolname  as [pots]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___protocolversion to complex: session:protocolversion  as [1]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___protocolversion to complex: session:protocolversion  as [1]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___sessionlabel to complex: session:sessionlabel  as [undefined]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___sessionlabel to complex: session:sessionlabel  as [undefined]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___sharedmode to complex: session:sharedmode  as [shared]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___sharedmode to complex: session:sharedmode  as [shared]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___ucid to complex: session:ucid  as [undefined]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___ucid to complex: session:ucid  as [undefined]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___uui to complex: session:uui  as [unknown]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___uui to complex: session:uui  as [unknown]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___videobitrate to complex: session:videobitrate  as [unknown]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___videobitrate to complex: session:videobitrate  as [unknown]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___videocodec to complex: session:videocodec  as [unknown]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___videocodec to complex: session:videocodec  as [unknown]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___videoenabled to complex: session:videoenabled  as [unknown]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___videoenabled to complex: session:videoenabled  as [unknown]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___videofarfmtp to complex: session:videofarfmtp  as [unknown]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___videofarfmtp to complex: session:videofarfmtp  as [unknown]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___videoformat to complex: session:videoformat  as [unknown]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___videoformat to complex: session:videoformat  as [unknown]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___videofps to complex: session:videofps  as [unknown]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___videofps to complex: session:videofps  as [unknown]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___videoheight to complex: session:videoheight  as [unknown]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___videoheight to complex: session:videoheight  as [unknown]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___videonearfmtp to complex: session:videonearfmtp  as [unknown]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___videonearfmtp to complex: session:videonearfmtp  as [unknown]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___videowidth to complex: session:videowidth  as [unknown]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___videowidth to complex: session:videowidth  as [unknown]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___vpcalledextension to complex: session:vpcalledextension  as [unknown]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___vpcalledextension to complex: session:vpcalledextension  as [unknown]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___vpcoveragereason to complex: session:vpcoveragereason  as [unknown]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___vpcoveragereason to complex: session:vpcoveragereason  as [unknown]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___vpcoveragetype to complex: session:vpcoveragetype  as [unknown]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___vpcoveragetype to complex: session:vpcoveragetype  as [unknown]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___vprdnis to complex: session:vprdnis  as [unknown]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :session___vprdnis to complex: session:vprdnis  as [unknown]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :shareduui___id to complex: shareduui:id  as [unknown]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :shareduui___id to complex: shareduui:id  as [unknown]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :shareduui___value to complex: shareduui:value  as [unknown]
+06/07/2019 10:39:36  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :shareduui___value to complex: shareduui:value  as [unknown]
+06/07/2019 10:39:36 DEBUG - 2E5B34E8859598EF5834595402992D11:/CTIapp : CTICallOperation Request: callinfoInitialCall
+06/07/2019 10:39:36 DEBUG - 2E5B34E8859598EF5834595402992D11:/CTIapp : CTICallOperation Request: callinfoInitialCall
+06/07/2019 10:39:36 DEBUG - 2E5B34E8859598EF5834595402992D11:/CTIapp : CTICallOperation Response: okay
+06/07/2019 10:39:36 DEBUG - 2E5B34E8859598EF5834595402992D11:/CTIapp : CTICallOperation Response: okay
+06/07/2019 10:39:40  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Using SCESession 2E5B34E8859598EF5834595402992D11:/CTIapp servlet : dialcall
+06/07/2019 10:39:40  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Using SCESession 2E5B34E8859598EF5834595402992D11:/CTIapp servlet : dialcall
+06/07/2019 10:39:40  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :collectdigits___confidence to complex: collectdigits:confidence  as [0.949999988079071]
+06/07/2019 10:39:40  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :collectdigits___confidence to complex: collectdigits:confidence  as [0.949999988079071]
+06/07/2019 10:39:40  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :collectdigits___inputmode to complex: collectdigits:inputmode  as [dtmf]
+06/07/2019 10:39:40  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :collectdigits___inputmode to complex: collectdigits:inputmode  as [dtmf]
+06/07/2019 10:39:40  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :collectdigits___interpretation to complex: collectdigits:interpretation  as [2222]
+06/07/2019 10:39:40  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :collectdigits___interpretation to complex: collectdigits:interpretation  as [2222]
+06/07/2019 10:39:40  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :collectdigits___noinputcount to complex: collectdigits:noinputcount  as [0]
+06/07/2019 10:39:40  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :collectdigits___noinputcount to complex: collectdigits:noinputcount  as [0]
+06/07/2019 10:39:40  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :collectdigits___nomatchcount to complex: collectdigits:nomatchcount  as [0]
+06/07/2019 10:39:40  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :collectdigits___nomatchcount to complex: collectdigits:nomatchcount  as [0]
+06/07/2019 10:39:40  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :collectdigits___utterance to complex: collectdigits:utterance  as [2222]
+06/07/2019 10:39:40  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :collectdigits___utterance to complex: collectdigits:utterance  as [2222]
+06/07/2019 10:39:40  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :collectdigits___value to complex: collectdigits:value  as [2222]
+06/07/2019 10:39:40  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Storing :collectdigits___value to complex: collectdigits:value  as [2222]
+06/07/2019 10:39:40 DEBUG - 2E5B34E8859598EF5834595402992D11:/CTIapp : VariableUtil.getVariableValue: Variable value is 0
+06/07/2019 10:39:40 DEBUG - 2E5B34E8859598EF5834595402992D11:/CTIapp : VariableUtil.getVariableValue: Variable value is 0
+06/07/2019 10:39:40 DEBUG - 2E5B34E8859598EF5834595402992D11:/CTIapp : VariableUtil.getVariableValue: Variable value is 2222
+06/07/2019 10:39:40 DEBUG - 2E5B34E8859598EF5834595402992D11:/CTIapp : VariableUtil.getVariableValue: Variable value is 2222
+06/07/2019 10:39:40 DEBUG - 2E5B34E8859598EF5834595402992D11:/CTIapp : VariableUtil.getVariableValue: Variable value is 2222
+06/07/2019 10:39:40 DEBUG - 2E5B34E8859598EF5834595402992D11:/CTIapp : VariableUtil.getVariableValue: Variable value is 2222
+06/07/2019 10:39:40 DEBUG - 2E5B34E8859598EF5834595402992D11:/CTIapp : CTICallOperation Request: hold:0
+06/07/2019 10:39:40 DEBUG - 2E5B34E8859598EF5834595402992D11:/CTIapp : CTICallOperation Request: hold:0
+06/07/2019 10:39:40 DEBUG - 2E5B34E8859598EF5834595402992D11:/CTIapp : CTICallOperation Response: held
+06/07/2019 10:39:40 DEBUG - 2E5B34E8859598EF5834595402992D11:/CTIapp : CTICallOperation Response: held
+06/07/2019 10:39:40 DEBUG - 2E5B34E8859598EF5834595402992D11:/CTIapp : CTICallOperation Request: dial:2222
+06/07/2019 10:39:40 DEBUG - 2E5B34E8859598EF5834595402992D11:/CTIapp : CTICallOperation Request: dial:2222
+06/07/2019 10:39:40 DEBUG - 2E5B34E8859598EF5834595402992D11:/CTIapp : CTICallOperation Response: established
+06/07/2019 10:39:40 DEBUG - 2E5B34E8859598EF5834595402992D11:/CTIapp : CTICallOperation Response: established
+06/07/2019 10:39:40  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : [condition1] Expression [transfertoextn:state] String Not Equal Ignorecase [established]
+06/07/2019 10:39:40  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : [condition1] Expression [transfertoextn:state] String Not Equal Ignorecase [established]
+06/07/2019 10:39:40  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Using SCESession 2E5B34E8859598EF5834595402992D11:/CTIapp servlet : transferdestination
+06/07/2019 10:39:40  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Using SCESession 2E5B34E8859598EF5834595402992D11:/CTIapp servlet : transferdestination
+06/07/2019 10:39:40 DEBUG - 2E5B34E8859598EF5834595402992D11:/CTIapp : VariableUtil.getVariableValue: Variable value is 0
+06/07/2019 10:39:40 DEBUG - 2E5B34E8859598EF5834595402992D11:/CTIapp : VariableUtil.getVariableValue: Variable value is 0
+06/07/2019 10:39:40 DEBUG - 2E5B34E8859598EF5834595402992D11:/CTIapp : VariableUtil.getVariableValue: Variable value is 1
+06/07/2019 10:39:40 DEBUG - 2E5B34E8859598EF5834595402992D11:/CTIapp : VariableUtil.getVariableValue: Variable value is 1
+06/07/2019 10:39:40 FATAL - In Progress | session id:sess1442991 | CTIapp:transferdestination | Log state of transfered call | Transfer call state:  | transfertoextn:state | established | undefined
+06/07/2019 10:39:40 FATAL - In Progress | session id:sess1442991 | CTIapp:transferdestination | state of original call | Ctiinfo state:  |  |  | undefined
+06/07/2019 10:39:40 DEBUG - 2E5B34E8859598EF5834595402992D11:/CTIapp : session id:sess1442991 | CTIapp:transferdestination | cticallinfo state:
+06/07/2019 10:39:40 DEBUG - 2E5B34E8859598EF5834595402992D11:/CTIapp : session id:sess1442991 | CTIapp:transferdestination | cticallinfo state:
+06/07/2019 10:39:40 DEBUG - 2E5B34E8859598EF5834595402992D11:/CTIapp : session id:sess1442991 | CTIapp:transferdestination | transfer call state:  | transfertoextn:state : established
+06/07/2019 10:39:40 DEBUG - 2E5B34E8859598EF5834595402992D11:/CTIapp : session id:sess1442991 | CTIapp:transferdestination | transfer call state:  | transfertoextn:state : established
+06/07/2019 10:39:40 DEBUG - 2E5B34E8859598EF5834595402992D11:/CTIapp : CTICallOperation Request: transfer:0
+06/07/2019 10:39:40 DEBUG - 2E5B34E8859598EF5834595402992D11:/CTIapp : CTICallOperation Request: transfer:0
+06/07/2019 10:39:40 DEBUG - 2E5B34E8859598EF5834595402992D11:/CTIapp : CTICallOperation Response: transferred
+06/07/2019 10:39:40 DEBUG - 2E5B34E8859598EF5834595402992D11:/CTIapp : CTICallOperation Response: transferred
+06/07/2019 10:39:40  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : [condition1] Expression [transfertoextn:state] String Equal Ignorecase [busy]
+06/07/2019 10:39:40  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : [condition1] Expression [transfertoextn:state] String Equal Ignorecase [busy]
+06/07/2019 10:39:40  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : [condition2] Expression [transfertoextn:state] String Equal Ignorecase [no answer]
+06/07/2019 10:39:40  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : [condition2] Expression [transfertoextn:state] String Equal Ignorecase [no answer]
+06/07/2019 10:39:40  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : [condition3] Expression [transfertoextn:state] String Equal Ignorecase [unreachable]
+06/07/2019 10:39:40  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : [condition3] Expression [transfertoextn:state] String Equal Ignorecase [unreachable]
+06/07/2019 10:39:40  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : [condition4] Expression [transfertoextn:state] String Equal Ignorecase [unknown]
+06/07/2019 10:39:40  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : [condition4] Expression [transfertoextn:state] String Equal Ignorecase [unknown]
+06/07/2019 10:39:40  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Using SCESession 2E5B34E8859598EF5834595402992D11:/CTIapp servlet : exit
+06/07/2019 10:39:40  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Using SCESession 2E5B34E8859598EF5834595402992D11:/CTIapp servlet : exit
+06/07/2019 10:39:40  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Removing session from AvayaSessionTermination Servlet
+06/07/2019 10:39:40  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Removing session from AvayaSessionTermination Servlet
+06/07/2019 10:39:40  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Termination URL reply : <?xml version="1.0" encoding="UTF-8"?>
+<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="en-us">
+</vxml>
+
+06/07/2019 10:39:40  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : Termination URL reply : <?xml version="1.0" encoding="UTF-8"?>
+<vxml version="2.1" xmlns="http://www.w3.org/2001/vxml" xml:lang="en-us">
+</vxml>
+
+06/07/2019 10:39:40  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : HTTP Session lost removing SCESession 2E5B34E8859598EF5834595402992D11
+06/07/2019 10:39:40  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : HTTP Session lost removing SCESession 2E5B34E8859598EF5834595402992D11
+06/07/2019 10:39:40  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : SCESession Removed
+06/07/2019 10:39:40  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : SCESession Removed
+06/07/2019 10:39:40 DEBUG - 2E5B34E8859598EF5834595402992D11:/CTIapp : Removing 1 session stack frames.
+06/07/2019 10:39:40 DEBUG - 2E5B34E8859598EF5834595402992D11:/CTIapp : Removing 1 session stack frames.
+06/07/2019 10:39:40  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : ** Popped Stack Frame [/CTIapp]
+06/07/2019 10:39:40  INFO - 2E5B34E8859598EF5834595402992D11:/CTIapp : ** Popped Stack Frame [/CTIapp]

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PromptDoc>
+    <Prompt version="1.0" order="standard" audioonly="false" bargeintype="speech">
+        <PromptLevel count="1" valid="true">
+            <Properties>
+                <Property name="Timeout" value="8"/>
+                <Property name="BargeIn" value="true"/>
+                <Property name="TimeUnit" value="seconds"/>
+            </Properties>
+            <ChildItems>
+                <Segment class="com.avaya.sce.prompts.internal.segment.TTS" type="TTS">
+                    <Properties>
+                        <Property name="Name" value="The extension number"/>
+                    </Properties>
+                    <ChildItems/>
+                </Segment>
+                <Segment class="com.avaya.sce.prompts.internal.segment.TextVariable" type="TextVariable">
+                    <Properties>
+                        <Property name="Name" value="collectdigits"/>
+                        <Property name="Field" value="value"/>
+                        <Property name="Format" value="text"/>
+                    </Properties>
+                    <ChildItems/>
+                </Segment>
+                <Segment class="com.avaya.sce.prompts.internal.segment.Condition" type="Condition">
+                    <Properties/>
+                    <ChildItems>
+                        <Segment class="com.avaya.sce.prompts.internal.segment.IfStatement" type="If">
+                            <Properties>
+                                <Property name="Value" value="busy"/>
+                                <Property name="Compare" value="EqualsIgnoreCase"/>
+                                <Property name="LeftField" value="state"/>
+                                <Property name="LeftVar" value="transfertoextn"/>
+                            </Properties>
+                            <ChildItems>
+                                <Segment class="com.avaya.sce.prompts.internal.segment.TTS" type="TTS">
+                                    <Properties>
+                                        <Property name="Name" value="is busy"/>
+                                    </Properties>
+                                    <ChildItems/>
+                                </Segment>
+                            </ChildItems>
+                        </Segment>
+                        <Segment class="com.avaya.sce.prompts.internal.segment.IfStatement" type="If">
+                            <Properties>
+                                <Property name="Value" value="failed"/>
+                                <Property name="Compare" value="EqualsIgnoreCase"/>
+                                <Property name="LeftField" value="state"/>
+                                <Property name="LeftVar" value="transfertoextn"/>
+                            </Properties>
+                            <ChildItems>
+                                <Segment class="com.avaya.sce.prompts.internal.segment.TTS" type="TTS">
+                                    <Properties>
+                                        <Property name="Name" value="could not reached. call operation failed."/>
+                                    </Properties>
+                                    <ChildItems/>
+                                </Segment>
+                            </ChildItems>
+                        </Segment>
+                        <Segment class="com.avaya.sce.prompts.internal.segment.IfStatement" type="If">
+                            <Properties>
+                                <Property name="Value" value="noanswer"/>
+                                <Property name="Compare" value="EqualsIgnoreCase"/>
+                                <Property name="LeftField" value="state"/>
+                                <Property name="LeftVar" value="transfertoextn"/>
+                            </Properties>
+                            <ChildItems>
+                                <Segment class="com.avaya.sce.prompts.internal.segment.TTS" type="TTS">
+                                    <Properties>
+                                        <Property name="Name" value="is not answering"/>
+                                    </Properties>
+                                    <ChildItems/>
+                                </Segment>
+                            </ChildItems>
+                        </Segment>
+                        <Segment class="com.avaya.sce.prompts.internal.segment.IfStatement" type="If">
+                            <Properties>
+                                <Property name="Value" value="unreachable"/>
+                                <Property name="Compare" value="EqualsIgnoreCase"/>
+                                <Property name="LeftField" value="state"/>
+                                <Property name="LeftVar" value="transfertoextn"/>
+                            </Properties>
+                            <ChildItems>
+                                <Segment class="com.avaya.sce.prompts.internal.segment.TTS" type="TTS">
+                                    <Properties>
+                                        <Property name="Name" value="is unreachable"/>
+                                    </Properties>
+                                    <ChildItems/>
+                                </Segment>
+                            </ChildItems>
+                        </Segment>
+                        <Segment class="com.avaya.sce.prompts.internal.segment.IfStatement" type="If">
+                            <Properties>
+                                <Property name="Value" value="unknown"/>
+                                <Property name="Compare" value="EqualsIgnoreCase"/>
+                                <Property name="LeftField" value="state"/>
+                                <Property name="LeftVar" value="transfertoextn"/>
+                            </Properties>
+                            <ChildItems>
+                                <Segment class="com.avaya.sce.prompts.internal.segment.TTS" type="TTS">
+                                    <Properties>
+                                        <Property name="Name" value="could not be reached due to an unknown error"/>
+                                    </Properties>
+                                    <ChildItems/>
+                                </Segment>
+                            </ChildItems>
+                        </Segment>
+                    </ChildItems>
+                </Segment>
+            </ChildItems>
+        </PromptLevel>
+    </Prompt>
+</PromptDoc>

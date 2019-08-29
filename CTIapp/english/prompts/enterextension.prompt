@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PromptDoc>
+<Prompt audioonly="false" bargeintype="speech" order="standard" version="1.0">
+<PromptLevel count="1" valid="true">
+<Properties>
+<Property name="Timeout" value="8"/>
+<Property name="BargeIn" value="true"/>
+<Property name="TimeUnit" value="seconds"/>
+</Properties>
+<ChildItems>
+<Segment class="com.avaya.sce.prompts.internal.segment.TTS" type="TTS">
+<Properties>
+<Property name="Name" value="Please enter the extension to transfer"/>
+</Properties>
+<ChildItems/>
+</Segment>
+</ChildItems>
+</PromptLevel>
+</Prompt>
+</PromptDoc>

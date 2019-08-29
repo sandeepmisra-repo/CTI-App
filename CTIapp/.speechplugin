@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<propertystore id="sage" version="1.0">
+    <propertymap/>
+    <nestedpropertystore>
+        <propertystore id="general" version="1.0">
+            <propertymap/>
+            <nestedpropertystore>
+                <propertystore id="project" version="1.0">
+                    <propertymap>
+                        <property name="iconlg" value="icons/defaultapplicationlg.gif" version="1.0"/>
+                        <property name="mode" value="Speech/DTMF" version="1.0"/>
+                        <property name="logpropertiesupdated" value="3.0.17x2" version="1.0"/>
+                        <property name="iconsm" value="icons/defaultapplicationsm.gif" version="1.0"/>
+                        <property name="dtmfVarsEnabled" value="false" version="1.0"/>
+                        <property name="type" value="Application" version="1.0"/>
+                        <property name="version" value="1.0.0" version="1.0"/>
+                    </propertymap>
+                    <nestedpropertystore/>
+                </propertystore>
+                <propertystore id="ide" version="1.0">
+                    <propertymap>
+                        <property name="version" value="417" version="1.0"/>
+                    </propertymap>
+                    <nestedpropertystore/>
+                </propertystore>
+            </nestedpropertystore>
+        </propertystore>
+        <propertystore id="grammars" version="1.0">
+            <propertymap>
+                <property name="compatability" value="IBM" version="1.0"/>
+                <property name="caching" value="none" version="1.0"/>
+            </propertymap>
+            <nestedpropertystore/>
+        </propertystore>
+        <propertystore id="datasource" version="1.0">
+            <propertymap/>
+            <nestedpropertystore>
+                <propertystore id="notification" version="1.0">
+                    <propertymap>
+                        <property name="cavenabled" value="false" version="1.0"/>
+                        <property name="notificationappnamecavenabled" value="false" version="1.0"/>
+                    </propertymap>
+                    <nestedpropertystore/>
+                </propertystore>
+                <propertystore id="cti" version="1.0">
+                    <propertymap>
+                        <property name="ctienabled" value="true" version="1.0"/>
+                    </propertymap>
+                    <nestedpropertystore/>
+                </propertystore>
+                <propertystore id="ic" version="1.0">
+                    <propertymap>
+                        <property name="enabled" value="false" version="1.0"/>
+                    </propertymap>
+                    <nestedpropertystore/>
+                </propertystore>
+                <propertystore id="ic_vrusm" version="1.0">
+                    <propertymap>
+                        <property name="enabled" value="false" version="1.0"/>
+                    </propertymap>
+                    <nestedpropertystore/>
+                </propertystore>
+            </nestedpropertystore>
+        </propertystore>
+        <propertystore id="runtimecommon" version="1.0">
+            <propertymap/>
+            <nestedpropertystore>
+                <propertystore id="scert" version="1.0">
+                    <propertymap>
+                        <property name="version" value="07.21.05.02" version="1.0"/>
+                    </propertymap>
+                    <nestedpropertystore/>
+                </propertystore>
+            </nestedpropertystore>
+        </propertystore>
+        <propertystore id="runtime" version="1.0">
+            <propertymap/>
+            <nestedpropertystore>
+                <propertystore id="scert" version="1.0">
+                    <propertymap>
+                        <property name="version" value="07.21.05.02" version="1.0"/>
+                    </propertymap>
+                    <nestedpropertystore/>
+                </propertystore>
+                <propertystore id="tomcat" version="1.0">
+                    <propertymap>
+                        <property name="version" value="tomcatV8" version="1.0"/>
+                    </propertymap>
+                    <nestedpropertystore/>
+                </propertystore>
+            </nestedpropertystore>
+        </propertystore>
+        <propertystore id="pluggableconnectors" version="1.0">
+            <propertymap/>
+            <nestedpropertystore>
+                <propertystore id="comavayascectictiConnector" version="1.0">
+                    <propertymap>
+                        <property name="displayName" value="Avaya AES Connector" version="1.0"/>
+                        <property name="connectorId" value="com.avaya.sce.cti.ctiConnector" version="1.0"/>
+                        <property name="currentVersion" value="1" version="1.0"/>
+                    </propertymap>
+                    <nestedpropertystore/>
+                </propertystore>
+            </nestedpropertystore>
+        </propertystore>
+        <propertystore id="prompts" version="1.0">
+            <propertymap>
+                <property name="timeout_presentation" value="constant" version="1.0"/>
+                <property name="timeout_constant_number" value="8" version="1.0"/>
+                <property name="ssmlenabled" value="false" version="1.0"/>
+                <property name="timeout_constant_unit" value="0" version="1.0"/>
+            </propertymap>
+            <nestedpropertystore/>
+        </propertystore>
+    </nestedpropertystore>
+</propertystore>
